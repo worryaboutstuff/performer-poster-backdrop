@@ -4,6 +4,10 @@ Adds a blurred poster-style backdrop behind performer headers using the performe
 Designed to be subtle, configurable, and safe by default.
 
 
+![Performer Poster Backdrop example](performer-poster-backdrop-example.png)
+
+
+
 
 ## Features
 
