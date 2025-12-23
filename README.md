@@ -2,7 +2,7 @@
 
 Adds a blurred poster-style backdrop behind performer headers using the performer’s poster image.
 
-![Performer Poster Backdrop example](assets/performer-poster-backdrop-example.png)
+![Performer Poster Backdrop example]((https://raw.githubusercontent.com/worryaboutstuff/performer-poster-backdrop/main/assets/performer-poster-backdrop-example.png))
 
 ## Features
 
