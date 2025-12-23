@@ -1,13 +1,8 @@
 # Performer Poster Backdrop (Stash UI Plugin)
 
-Adds a blurred poster-style backdrop behind performer headers using the performer’s poster image.  
-Designed to be subtle, configurable, and safe by default.
-
+Adds a blurred poster-style backdrop behind performer headers using the performer’s poster image.
 
 ![Performer Poster Backdrop example](performer-poster-backdrop-example.png)
-
-
-
 
 ## Features
 
