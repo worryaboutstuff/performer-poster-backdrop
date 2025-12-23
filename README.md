@@ -3,7 +3,7 @@
 Adds a blurred poster-style backdrop behind performer headers using the performer’s poster image.  
 Designed to be subtle, configurable, and safe by default.
 
----
+
 
 ## Features
 
@@ -16,8 +16,6 @@ Designed to be subtle, configurable, and safe by default.
 - Supports **per-performer Y-offset overrides**
 - Blank settings automatically fall back to defaults
 
----
-
 ## Installation
 
 1. Copy the following files into your Stash UI plugins directory:
@@ -29,8 +27,6 @@ Designed to be subtle, configurable, and safe by default.
 3. Find **Performer Poster Backdrop**
 4. Adjust settings if desired and click **Save**
 5. Refresh a performer page
-
----
 
 ## Settings
 
@@ -46,8 +42,6 @@ Controls how visible the backdrop is.
 
 Leaving this field blank uses the default.
 
----
-
 ### Backdrop blur
 Controls how blurred the backdrop appears (in pixels).
 
@@ -58,8 +52,6 @@ Controls how blurred the backdrop appears (in pixels).
   - `0` → no blur
 
 Leaving this field blank uses the default.
-
----
 
 ### Default Y offset
 Controls the vertical alignment of the backdrop image.
@@ -72,8 +64,6 @@ Controls the vertical alignment of the backdrop image.
   - `100` → favor bottom
 
 Leaving this field blank uses the default.
-
----
 
 ## Per-performer Y overrides
 
