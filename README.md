@@ -72,10 +72,13 @@ Use this when a specific performer’s poster needs different vertical positioni
 Enter overrides as a **comma-separated list** in a single text field.
 
 ### Format
-PERFORMER_ID:OFFSET
+
+`PERFORMER_ID:OFFSET`
 
 ### Example
-142:35, 219:20, 501:50
+
+`142:35, 219:20, 501:50`
+
 
 
 Accepted separators:
