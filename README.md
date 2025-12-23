@@ -25,7 +25,7 @@ Designed to be subtle, configurable, and safe by default.
 
 2. In Stash, go to **Settings → Plugins**
 3. Find **Performer Poster Backdrop**
-4. Adjust settings if desired and click **Save**
+4. Adjust settings if desired and click **Confirm**
 5. Refresh a performer page
 
 ## Settings
